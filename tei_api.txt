@@ -1,19 +1,20 @@
 TEI API v1 routes
 
 Users:
-- Login       ==> GET    ==> /tei/api/v1/login/
-- Status      ==> GET    ==> /tei/api/v1/users/{user_id}/status/
-- Control ON  ==> GET    ==> /tei/api/v1/users/{user_id}/control/on/
-- Control OFF ==> GET    ==> /tei/api/v1/users/{user_id}/control/off/
+     - Login       ==> GET    ==> /tei/api/v1/login/
+DONE - Status      ==> GET    ==> /tei/api/v1/users/{user_id}/
+     - Control ON  ==> GET    ==> /tei/api/v1/users/{user_id}/control/on/
+     - Control OFF ==> GET    ==> /tei/api/v1/users/{user_id}/control/off/
 
 Admin:
-- DB control  ==> GET    ==> /tei/api/v1/users/
-- DB create   ==> POST   ==> /tei/api/v1/users/{user_id}/create/
-- DB update   ==> PATCH  ==> /tei/api/v1/users/{user_id}/update/
-- DB delete   ==> DELETE ==> /tei/api/v1/users/{user_id}/delete/
+DONE - DB control  ==> GET    ==> /tei/api/v1/users/
+     - DB create   ==> POST   ==> /tei/api/v1/users/{user_id}/create/
+     - DB update   ==> PATCH  ==> /tei/api/v1/users/{user_id}/update/
+     - DB delete   ==> DELETE ==> /tei/api/v1/users/{user_id}/delete/
 
-- DB data     ==> GET    ==> /tei/api/v1/users/db/{user_id}/
-- DB create   ==> POST   ==> /tei/api/v1/users/db/{user_id}/create/
-- DB update   ==> PATCH  ==> /tei/api/v1/users/db/{user_id}/update/
-- DB delete   ==> DELETE ==> /tei/api/v1/users/db/{user_id}/delete/
+DONE - DB all data ==> GET    ==> /tei/api/v1/db/
+DONE - DB data     ==> GET    ==> /tei/api/v1/db/{user_id}/
+     - DB create   ==> POST   ==> /tei/api/v1/db/{user_id}/create/
+     - DB update   ==> PATCH  ==> /tei/api/v1/db/{user_id}/update/
+     - DB delete   ==> DELETE ==> /tei/api/v1/db/{user_id}/delete/
 
