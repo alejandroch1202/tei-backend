@@ -1,0 +1,23 @@
+{
+  "name": "tei-backend",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><a href=\"https://www.tei.com.ve/\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/ubiot-alejandro/teiApp/main/imagenes/iconos/TEI.png\" width=\"200\" alt=\"Laravel Logo\"></a></p>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroch1202/tei-backend.git"
+  },
+  "author": "Alejandro Chavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandroch1202/tei-backend/issues"
+  },
+  "homepage": "https://github.com/alejandroch1202/tei-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

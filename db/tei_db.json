@@ -1,0 +1,69 @@
+[
+  {
+    "id_number": "cc48a87b-53a8-4d68-a43b-25cbc8ec8ce9",
+    "date_time": "2022-08-24 16:58:01",
+    "level_alert": "00",
+    "level_not": "00",
+    "manual_off": "00",
+    "manual_on": "00",
+    "network": "Online_",
+    "phase_alert": "00",
+    "phase_not": "01",
+    "remote_off": "00",
+    "remote_on": "00",
+    "thermal_alert": "00",
+    "thermal_not": "00",
+    "thing_status": "00"
+  },
+
+  {
+    "id_number": "7a5fb79a-9c97-4b25-bb82-e0a36afb0823",
+    "date_time": "2022-08-24 16:58:01",
+    "level_alert": "00",
+    "level_not": "00",
+    "manual_off": "00",
+    "manual_on": "00",
+    "network": "Online_",
+    "phase_alert": "00",
+    "phase_not": "01",
+    "remote_off": "00",
+    "remote_on": "00",
+    "thermal_alert": "00",
+    "thermal_not": "00",
+    "thing_status": "00"
+  },
+
+  {
+    "id_number": "833840cf-ff3c-42e0-8571-1b74f4144b47",
+    "date_time": "2022-08-24 16:58:01",
+    "level_alert": "00",
+    "level_not": "00",
+    "manual_off": "00",
+    "manual_on": "00",
+    "network": "Online_",
+    "phase_alert": "00",
+    "phase_not": "01",
+    "remote_off": "00",
+    "remote_on": "00",
+    "thermal_alert": "00",
+    "thermal_not": "00",
+    "thing_status": "00"
+  },
+
+  {
+    "id_number": "39b01eed-abcc-498a-8abd-0e9c5825f17b",
+    "date_time": "2022-08-24 16:58:01",
+    "level_alert": "00",
+    "level_not": "00",
+    "manual_off": "00",
+    "manual_on": "00",
+    "network": "Online_",
+    "phase_alert": "00",
+    "phase_not": "01",
+    "remote_off": "00",
+    "remote_on": "00",
+    "thermal_alert": "00",
+    "thermal_not": "00",
+    "thing_status": "00"
+  }
+]

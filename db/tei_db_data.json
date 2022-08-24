@@ -1,0 +1,49 @@
+[
+  {
+    "id_number": "cc48a87b-53a8-4d68-a43b-25cbc8ec8ce9",
+    "address": "New York",
+    "alias": "Tayyibah Stokes",
+    "device_id": "e1e7990ad6fd",
+    "auth_key": "w9j9iwiuo0fqmyxgiidc0gawxpr1jdnqq1mey0b61z51v6b618",
+    "ci_rif": "31774223",
+    "license": "basic",
+    "support_id": "0001",
+    "vpn_ip": "10.0.0.11"
+  },
+
+  {
+    "id_number": "7a5fb79a-9c97-4b25-bb82-e0a36afb0823",
+    "address": "London",
+    "alias": "Marcus Stephens",
+    "device_id": "295bba8390fe",
+    "auth_key": "ljk4jifu3eyj6zb05bzjtdfd5f6v040yo8iaw08w1egjkz5u6o",
+    "ci_rif": "99529689",
+    "license": "standard",
+    "support_id": "0002",
+    "vpn_ip": "10.0.0.12"
+  },
+
+  {
+    "id_number": "833840cf-ff3c-42e0-8571-1b74f4144b47",
+    "address": "Sidney",
+    "alias": "Anderson Mathis",
+    "device_id": "089de38c5fed",
+    "auth_key": "bu2a63ym3ik30cuxrs9gh6e3ct77uqdgr3fcz3q0f38152fd3k",
+    "ci_rif": "00934968",
+    "license": "basic",
+    "support_id": "0003",
+    "vpn_ip": "10.0.0.13"
+  },
+
+  {
+    "id_number": "39b01eed-abcc-498a-8abd-0e9c5825f17b",
+    "address": "Brusels",
+    "alias": "Karla Rhodes",
+    "device_id": "9e0974bf3b19",
+    "auth_key": "ge2ov9nhdawlyd25bcfze59qc4poktuier3ouokllxcb5c2rn6",
+    "ci_rif": "75545179",
+    "license": "standard",
+    "support_id": "0004",
+    "vpn_ip": "10.0.0.14"
+  }
+]
